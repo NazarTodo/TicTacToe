@@ -1,6 +1,6 @@
 import copy
 
-from tictactoe.board import Board, OutOfFieldError, CellIsOccupiedError
+from board import Board, OutOfFieldError, CellIsOccupiedError
 
 
 def game():
