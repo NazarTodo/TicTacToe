@@ -2,8 +2,8 @@
 
 import copy
 import random
-from tictactoe.btree import Tree
-from tictactoe.btnode import Node
+from btree import Tree
+from btnode import Node
 
 
 class OutOfFieldError(BaseException):
